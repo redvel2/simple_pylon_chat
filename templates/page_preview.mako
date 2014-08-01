@@ -1,0 +1,1 @@
+﻿<div class="page_preview"><div class="page_logo"></div><img src="${c.json['img'][0]}" /><div class="page_title">${c.json['title']}</div><div class="page_content">${c.json['content']}</div></div>
